@@ -31,16 +31,23 @@ I love building elegant user experiences, solving real problems, and shipping cl
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**Web3Unilag Website** is a **community platform for blockchain enthusiasts at the University of Lagos** built with **Next.js, TypeScript, and Tailwind CSS**. This project demonstrates my ability to **build responsive UIs, dynamic content systems, and modern Web3-focused websites**. You can check out the repository [[here](https://github.com/Dydex/web3unilag-website)](project_1_repository_link).
+**Web3Unilag Website** is a **community platform for blockchain enthusiasts at the University of Lagos** built with **Next.js, TypeScript, and Tailwind CSS**. This project demonstrates my ability to **build responsive UIs, dynamic content systems, and modern Web3-focused websites**. You can check out the repository [[here](https://github.com/Dydex/web3unilag-website)].
 
-### [Project 2 Title](project_2_link)
+### [Listing Web App](https://alx-listing-app-489761.vercel.app/)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**Listing Web App** is a **platform for viewing and managing property listings with clean UI and fast navigation.** built with **Next.js, TypeScript, and Tailwind CSS**. This project showcases my skills in **UI design, state management, routing, and building scalable listing experiences**. You can check out the repository [[here](https://github.com/Dydex/alx-listing-app-deployed)].
+
+### [Virtual Voter](https://expo.dev/artifacts/eas/bpnKXW9rWRjXuu6mVrRbTt.apk)
+
+![Project 3 Screenshot](project_3_screenshot_url)
+
+**Virtual Voter** is a **real-time polling app with an intuitive interface and live results.** built with **React Native (Expo), TypeScript, and Supabase**. This project demonstrates my ability to **mobile apps, real-time updates, authetication flows, and asynchronous data handling**. You can check out the repository [[here](https://github.com/Dydex/alx-project-nexus)]
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(https://sites.google.com/view/dolapoajala)
+- **[Personal Website / Blog]**(https://dolapoajala.vercel.app)
 - **[LinkedIn]**(https://www.linkedin.com/in/ajala-dolapo-756394281/)
 - **[Twitter]**(https://x.com/dp7954)
+- **[email]**(supremeajala@gmail.com)
