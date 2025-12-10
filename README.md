@@ -39,7 +39,7 @@ I love building elegant user experiences, solving real problems, and shipping cl
 
 **Listing Web App** is a **platform for viewing and managing property listings with clean UI and fast navigation.** built with **Next.js, TypeScript, and Tailwind CSS**. This project showcases my skills in **UI design, state management, routing, and building scalable listing experiences**. You can check out the repository [[here](https://github.com/Dydex/alx-listing-app-deployed)].
 
-### [Virtual Voter](https://expo.dev/artifacts/eas/bpnKXW9rWRjXuu6mVrRbTt.apk)
+### [Virtual Voter Mobile App](https://expo.dev/artifacts/eas/bpnKXW9rWRjXuu6mVrRbTt.apk)
 
 ![Project 3 Screenshot](project_3_screenshot_url)
 
