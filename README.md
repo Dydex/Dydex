@@ -47,7 +47,7 @@ I love building elegant user experiences, solving real problems, and shipping cl
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(https://dolapoajala.vercel.app)
+- **[Personal Website]**(https://dolapoajala.vercel.app)
 - **[LinkedIn]**(https://www.linkedin.com/in/ajala-dolapo-756394281/)
 - **[Twitter]**(https://x.com/dp7954)
 - **[email]**(supremeajala@gmail.com)
