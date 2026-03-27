@@ -10,8 +10,10 @@ I also build and integrate smart contracts into frontend applications, creating 
 I love building elegant user interfaces, solving real problems, and shipping clean, efficient code.
 
 🌱 Currently learning: Advanced Blockchain Development & Smart Contract Security
+
 🔭 Working on: Web3 dApps (Frontend + Smart Contract Integration)
-📫 Contact: supremeajala@gmail.com
+
+📫 Contact: supremeajala@gmail.com.
 
 ## My Skills 🧠
 
