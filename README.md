@@ -2,7 +2,7 @@
 
 ![Banner Image](images/1756286023790.jpeg)
 
-## Frontend Developer | Smart Contract Developer
+## Smart Contract Developer | Frontend Developer
 
 I’m a passionate Frontend Developer skilled in JavaScript, TypeScript, and modern UI engineering.
 I also build and integrate smart contracts into frontend applications, creating seamless Web3 user experiences.
@@ -17,14 +17,14 @@ I love building elegant user interfaces, solving real problems, and shipping cle
 
 ## My Skills 🧠
 
+![Hardhat](https://img.shields.io/badge/Hardhat-FCC624?style=flat-square)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?logo=tailwindcss&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020.svg?logo=expo&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FCC624?style=flat-square)
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square)
 
 ## 🌱 Learning & Exploring
 
