@@ -1,17 +1,6 @@
-# Hi there, I'm Dolapo! 👋
+## Frontend | Blockchain Developer
 
-![Banner Image](images/1756286023790.jpeg)
-
-## Smart Contract Developer | Frontend Developer
-
-I’m a passionate Frontend Developer skilled in JavaScript, TypeScript, and modern UI engineering.
-I also build and integrate smart contracts into frontend applications, creating seamless Web3 user experiences.
-
-I love building elegant user interfaces, solving real problems, and shipping clean, efficient code.
-
-🌱 Currently learning: Advanced Blockchain Development & Smart Contract Security
-
-🔭 Working on: Web3 dApps (Frontend + Smart Contract Integration)
+🌱 Currently learning: Backend Development & Smart Contract Security
 
 📫 Contact: supremeajala@gmail.com.
 
@@ -24,6 +13,7 @@ I love building elegant user interfaces, solving real problems, and shipping cle
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020.svg?logo=expo&logoColor=white)
 
 ## 🌱 Learning & Exploring
