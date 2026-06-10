@@ -1,10 +1,8 @@
 ## Frontend | Blockchain Developer
 
-🌱 Currently learning: Backend Development & Smart Contract Security
+   Currently learning: Backend Development & Smart Contract Security
 
-📫 Contact: supremeajala@gmail.com.
-
-## My Skills 🧠
+## My Skills
 
 ![Hardhat](https://img.shields.io/badge/Hardhat-FCC624?style=flat-square)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square)
@@ -16,13 +14,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020.svg?logo=expo&logoColor=white)
 
-## 🌱 Learning & Exploring
-
-* Advanced **Solidity** & Smart Contract Security
-* Smart Contract Testing & Deployment with **Foundry**
-* Building scalable **Web3 dApps** with Next.js & Solidity
-* Deepening knowledge in frontend ↔ blockchain integration
-
 ---
 
 ## 🤝 Collaboration & Interests
@@ -33,10 +24,3 @@ I’m open to collaborating on:
 * Web3 & Blockchain Development
 * Open Source Contributions
 * Decentralized Application (dApp) development
-
----
-
-## Get in Touch 📬
-
-- **[LinkedIn]**(https://www.linkedin.com/in/ajala-dolapo-756394281/)
-- **[Twitter]**(https://x.com/dp7954)
