@@ -1,5 +1,6 @@
 ## My Skills
 
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FCC624?style=flat-square)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
