@@ -10,9 +10,10 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020.svg?logo=expo&logoColor=white)
 
-## Currently learning: Backend Development & Smart Contract Security
+## Currently learning: 
+* Backend Development & Smart Contract Security
 
-## 🤝 Collaboration & Interests
+## Collaboration & Interests
 
 I’m open to collaborating on:
 
