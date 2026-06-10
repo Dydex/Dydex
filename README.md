@@ -15,8 +15,6 @@
 
 ## Collaboration & Interests
 
-I’m open to collaborating on:
-
 * Frontend Development Projects
 * Web3 & Blockchain Development
 * Open Source Contributions
